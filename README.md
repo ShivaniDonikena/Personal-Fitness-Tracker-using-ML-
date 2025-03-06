@@ -8,7 +8,7 @@ A simple personal fitness tracker built with **Python** and **Streamlit** to hel
 - 🏃 **Cardio Tracking**: Record running, cycling, or other cardio activities.
 - 📁 **Data Storage**: Save progress using CSV or a lightweight database.
 - 🎨 **User-Friendly UI**: Simple and intuitive interface using Streamlit.
-- 🔹 Workflow of an ML-Based Fitness Tracker
+   🔹 Workflow of an ML-Based Fitness Tracker
 1️⃣ Data Collection
 
 User inputs workout data (exercise type, duration, calories burned).
